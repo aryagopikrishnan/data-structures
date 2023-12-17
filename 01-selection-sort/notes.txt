@@ -1,0 +1,5 @@
+-- Selection sorts creates a new sorted list alongside an unsorted list
+-- time complexity: O(n^2)
+
+
+-- merge sort 
