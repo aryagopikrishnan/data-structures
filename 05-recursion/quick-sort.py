@@ -26,6 +26,3 @@ def count(arr):
 
 # Recursive function to find maximum number in an array
 
-
-
-
