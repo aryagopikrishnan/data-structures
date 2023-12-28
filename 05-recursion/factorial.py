@@ -1,4 +1,12 @@
 
+def factorial(n):
+    if n == 1:
+        return 1
+    return n * factorial(n-1)
+
+print(factorial(4))
+
+
 #infinite recursion
 def countdown(i):
     print(i)
@@ -13,5 +21,5 @@ def countdown1(i):
     else:
         countdown1(i-1)
 
-countdown1(3)
+# countdown1(3)
 
